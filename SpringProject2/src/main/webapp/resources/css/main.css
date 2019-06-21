@@ -1,0 +1,16 @@
+body {
+    background-color:lightPink
+}
+h2{
+    color: Blue;
+    text-align: left;
+}
+h1{
+    color: Red;
+    text-align: left;
+}
+p{
+    font-family: verdana;
+    font-size: 20px;
+    color: Green;
+}
